@@ -1,0 +1,12 @@
+{ "nodes": [ 
+{
+"node_name": "TVM-Priyanka-HA_1", 
+"standby_time": 30, 
+"unstandby_time": 50
+},
+{ 
+"node_name": "TVM-Priyanka-HA_2", 
+"standby_time": 20, 
+"unstandby_time": 40
+}
+]}
